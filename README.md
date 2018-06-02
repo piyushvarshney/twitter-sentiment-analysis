@@ -3,7 +3,7 @@
 Search for Tweets and download the data labeled with it's Polarity in CSV format
 
 
-[![](http://i.imgur.com/H78FZUX.png)](http://i.imgur.com/H78FZUX.png)
+[![demo image](http://i.imgur.com/H78FZUX.png)](http://i.imgur.com/H78FZUX.png)
 
 
 ## Development Guide (Steps)
@@ -17,4 +17,4 @@ Search for Tweets and download the data labeled with it's Polarity in CSV format
 7. Run the server. `python app.py`
 
 
-## [License MIT © Piyush Varshney](https://piyushvarshney.mit-license.org/)
+#### [License MIT © Piyush Varshney](https://piyushvarshney.mit-license.org/)
